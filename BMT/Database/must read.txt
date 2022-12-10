@@ -1,0 +1,12 @@
+Business Management Tool
+
+first access : http://localhost/phpmyadmin/index.php 
+second : create database "bmt"
+then import given bmt.sql file
+
+Administration Login
+username "admin" password "admin"
+
+
+User Login 
+username "user" and password "user"
